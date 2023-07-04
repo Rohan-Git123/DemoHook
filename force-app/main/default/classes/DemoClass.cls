@@ -1,3 +1,3 @@
 global with sharing class DemoClass {
-    String st5;
+    String st6;
 }
