@@ -4,7 +4,7 @@ public class WebHookParser {
     
     public String name;
     public String email;
-    public String ref;
+    public String ref; 
         
     public List<String> added;
     public List<String> removed;
