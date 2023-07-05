@@ -7,7 +7,7 @@
     <hasActivationRequired>true</hasActivationRequired>
     <label>Payment</label>
     <license>Salesforce</license>
-    <objectPermissions>
+    <objectPermissions>  
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
         <allowEdit>true</allowEdit>
