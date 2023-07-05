@@ -1,6 +1,6 @@
 public class WebHookParser {
     String response;
-    String message; 
+    String message;  
     
     public String name;
     public String email;
